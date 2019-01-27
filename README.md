@@ -1,3 +1,3 @@
 # Color Guessing Game
-### A project for Colt Steele web development bootcamp 
+### A project of Colt Steele web development bootcamp 
 #### https://ro008.github.io/Color-Guessing-Game/
